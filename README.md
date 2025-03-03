@@ -5,9 +5,9 @@
 I'm passionate about coding, problem-solving, and building impactful projects. With a strong foundation in C++, C, HTML, CSS, and JavaScript, I love creating solutions that make a difference. Currently, I'm diving deep into Data Structures & Algorithms (DSA) to strengthen my problem-solving abilities.
 
 🛠 Tech Stack
-Languages: C++, C, JavaScript
-Web Development: HTML, CSS
-Databases: SQL, DBMS
+Languages: C++, C, JavaScript<br>
+Web Development: HTML, CSS<br>
+Databases: SQL, DBMS<br>
 Other Skills: Problem-solving, Critical Thinking
 
 📚 Currently Learning
