@@ -1,7 +1,7 @@
 👋 Hey there! I'm Suhani Mishra
 🎓 B.Tech 3rd-year student at NIET | 💻 Aspiring Developer | 🚀 Tech Enthusiast
 
-🌟 About Me
+🌟 About Me:-
 I'm passionate about coding, problem-solving, and building impactful projects. With a strong foundation in C++, C, HTML, CSS, and JavaScript, I love creating solutions that make a difference. Currently, I'm diving deep into Data Structures & Algorithms (DSA) to strengthen my problem-solving abilities.
 
 🛠 Tech Stack
